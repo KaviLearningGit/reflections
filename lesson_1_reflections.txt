@@ -1,0 +1,20 @@
+From the old files can do modifications to test some logic
+If new modules implemented in new file and code goes haywire, old file helps to get back
+easy to pinpoint typo error
+If any bug occurs, the old version can be used to find the exact change , which leads to bug
+pros of manual commit:
+ The commit canbe done after adding the new features or resolving a bug
+ cons:
+  Sometimes we leave and it would become too big and sometime we may commit too often and would become too small
+ pros of automatic commit:
+  The commit would have at regular interval , so need to worry
+ cons:
+  We may not able to commit, ate necessary point or commits may happen at unnecessary point, where we would have done nothing.
+ Saving multiple files would help , when u work on a project containing lot of files.
+ Log command :
+ can be used to see all commits, or to search for particular bug fix, feature added and updation made
+ diff command :
+ to compare code changes (above mentioned ) areas
+ commit changes:
+ knowing that i cant get back to old controls easily, i will have more confidence on experiments
+ 
