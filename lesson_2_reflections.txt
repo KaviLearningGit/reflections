@@ -2,3 +2,4 @@ When u initlize a repo, a .git directory will be created
 The status of all the files and any commit details will be updated
 If u add ur files in staging area and if u change your mind, udone it, and there will be no history in commits.
  if there is no staging area, u would be make uncessary changes or wrong commits
+can add files to staging area, chect with original conent, to make sure coreect changes are made and then commit the changes from staging to comming (repo)
