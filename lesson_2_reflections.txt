@@ -5,3 +5,4 @@ If u add ur files in staging area and if u change your mind, udone it, and there
 can add files to staging area, chect with original conent, to make sure coreect changes are made and then commit the changes from staging to comming (repo
 Branching will help , when u are experimenting something quite different or creating another application from the base of this one
 Diagrams always help to think what goes beyond the scene
+Need more clarification on merging
