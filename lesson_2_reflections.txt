@@ -6,3 +6,7 @@ can add files to staging area, chect with original conent, to make sure coreect 
 Branching will help , when u are experimenting something quite different or creating another application from the base of this one
 Diagrams always help to think what goes beyond the scene
 Need more clarification on merging
+Auto Merge Pros : Need not send lot of time in analyzing and copy pasting
+Auto Merge Cons : unwanted data may be merged or, needed data mat be overlapped
+Manual Merge Pros : Dev knows waht to merge , so unwanted data conflict need not occur
+Manual Merge Cons : Time Consuming
